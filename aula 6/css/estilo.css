@@ -1,0 +1,65 @@
+body{
+    background-color: blueviolet;
+    color: coral;
+}
+
+li a, footer h2 a{
+    color: coral;
+    text-decoration: none;
+}
+
+li a, footer h2 a:hover{
+    color: green;
+}
+
+li a, footer h2 a:active{
+    color: red;
+}
+
+footer h2 a{
+    border:2px ridge beige;
+    background-color: bisque;
+    color: brown;
+    padding: 5px;
+    border-radius: 3px;
+}
+footer h2 a:hover{
+    border: 2px ridge bisque;
+    background-color: beige;
+    color: brown;
+}
+
+footer h2 a:active{
+    background-color: white;
+    box-shadow: 0 0 3px white;
+}
+
+table#tabela01{
+    border: 3px solid black;
+    border-collapse: collapse;
+    background-color: ivory;
+    color: black;
+}
+
+#tabela01 td{
+ border: 1px dashed brown;
+ padding:  10px ;
+}
+#tabela01 tr:nth-child(even){
+    background-color: yellow;
+}
+ 
+table#tabela02{
+    border: 3px solid black;
+    background-color: ivory;
+    color: black;
+}
+#tabela02 td{
+    border: 1px solid black;
+    padding:  10px ;
+}
+
+#cor{
+    background-color: cyan;
+}
+ 
