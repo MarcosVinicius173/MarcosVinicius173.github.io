@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Acai - Official ATLAS Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Acai","wgTitle":"Acai","wgCurRevisionId":48425,"wgRevisionId":48425,"wgArticleId":523,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Berry","Foods that give vitamin C","Consumables"],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Acai","wgRelevantArticleId":523,"wgRequestId":"26599f7a6ac8bc7920407ad7","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCargoMapClusteringMinimum":80,"wgCargoMonthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"wgCargoMonthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgCargoWeekDays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"wgCargoWeekDaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"dsSiteKey":"d08d7a0c0b8d07b52e80a05a2636c847","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":false},"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","ext.siteGlobals.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","skins.vector.styles.responsive":"ready","ext.social.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","skins.z.hydra.light.styles":"ready","skins.hydra.googlefont.styles":"ready","skins.hydra.netbar":"ready","skins.hydra.footer":"ready","skins.hydra.advertisements.styles":"ready","skins.z.hydra.dark.styles":"ready","skins.z.hydra.dark.syntaxhighlight.monokai.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.helios.logout.scripts","ext.cargo.main","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.track.scripts","ext.claimWiki.styles","ext.collapsiblevector.collapsibleNav","ext.siteGlobals.scripts","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","skins.vector.js","skins.hydra.advertisements.js","skins.hydra.footer.js","ext.social.scripts"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.siteGlobals.styles%7Cext.social.styles%7Cext.visualEditor.desktopArticleTarget.noscript%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.hydra.advertisements.styles%7Cskins.hydra.footer%2Cnetbar%7Cskins.hydra.googlefont.styles%7Cskins.vector.styles%7Cskins.vector.styles.responsive%7Cskins.z.hydra.dark.styles%7Cskins.z.hydra.dark.syntaxhighlight.monokai.styles%7Cskins.z.hydra.light.styles&amp;only=styles&amp;skin=hydradark"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=hydradark"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=hydradark"/>
+<meta name="generator" content="MediaWiki 1.33.3"/>
+<meta property="og:image" content="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/1200?cb=20181226165004"/>
+<meta name="description"/>
+<meta name="keywords" content=""/>
+<meta property="og:title" content="Acai"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://atlas.gamepedia.com/Acai"/>
+<meta property="og:site_name" content="ATLAS Wiki"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Acai&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=Acai&amp;action=edit"/>
+<link rel="apple-touch-icon" href=""/>
+<link rel="shortcut icon" href="https://atlas.gamepedia.com/media/atlas.gamepedia.com/6/64/Favicon.ico?version=3a1941f7fb6bc086891b8734bb8fc75c&amp;version=3a1941f7fb6bc086891b8734bb8fc75c"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="ATLAS Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://atlas.gamepedia.com/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-nc-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="ATLAS Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://atlas.gamepedia.com/Acai"/>
+<meta itemprop="author" content="Gamepedia" />
+<!--[if lt IE 9]><script src="/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=hydradark&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Acai rootpage-Acai skin-hydradark action-view site-atlas-gamepedia show-ads">
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org/",
+    "@type": "Article",
+    "name": "Acai",
+    "headline": "Acai",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://static.wikia.nocookie.net/atlas_gamepedia_en/images/b/bc/Wiki.png/revision/latest?cb=20181207040733?version=5a574ac8b818cfacef5cf55d2db1e227",
+        "width": "442",
+        "height": "512"
+    },
+    "author": {
+        "@type": "Organization",
+        "name": "ATLAS Wiki"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Gamepedia",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://atlas.gamepedia.com/skins/Hydra/images/icons/gp-pub-logo.png"
+        },
+        "sameAs": [
+            "https://twitter.com/CurseGamepedia", "https://www.facebook.com/CurseGamepedia", "https://www.twitch.tv/gamepedia/videos"
+        ]
+    },
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://atlas.gamepedia.com/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+    },
+    "datePublished": "2020-08-19T23:53:18Z",
+    "dateModified": "2020-08-19T23:53:18Z",
+    "mainEntityOfPage": "https://atlas.gamepedia.com/Acai"
+}
+</script>
+<script>
+var version = 'v76.3.3';
+var host = 'https://static.wikia.nocookie.net/fandom-ae-assets/platforms/' + version + '/gamepedia';
+var jsScript = document.createElement('script');
+var cssLink = document.createElement('link');
+ 
+jsScript.id = 'ae3.bundle';
+jsScript.src = host + '/main.bundle.js';
+jsScript.async = true;
+jsScript.type = 'text/javascript';
+ 
+cssLink.id = 'ae3.styles';
+cssLink.href = host + '/styles.css';
+cssLink.type = 'text/css';
+cssLink.rel = 'stylesheet';
+ 
+document.head.appendChild(jsScript);
+document.head.appendChild(cssLink);
+ 
+if (Math.max(document.documentElement.clientHeight, window.innerHeight || 0) < 800) {
+    document.addEventListener("DOMContentLoaded", function(event) {
+        var element = document.getElementById("cdm-zone-06");
+        if (element) {
+            element.parentNode.removeChild(element);
+        }
+    });
+}
+ 
+// LEGACY PART
+ 
+window.isMobileResponsive = false;
+window.factorem = window.factorem || {};
+window.factorem.slotSizes =  [[[728,90],[980,150],[980,250],[970,150],[970,250]],[[300,250],[300,600]],[[300,250]],[[728,90]],[],[[300,250]],[],[]];
+factorem.moatFrequency="1.0";
+factorem.sandboxPolicy="mobile";
+</script>
+
+<!-- Google Tag Manager K -->
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NR933TZ');</script>
+<!-- End Google Tag Manager K -->
+
+<script type="text/javascript">!function(){var t=window.SambaTV=window.SambaTV||[];if(!t.track){if(t.invoked)return void(window.console&&window.console.error&&window.console.error("Samba Metrics snippet included twice."));t.invoked=!0,t.methods=["track","Impression","Purchase","Register","Click","Login","Register"],t.factory=function(e){return function(){var r=Array.prototype.slice.call(arguments);return r.unshift(e),t.push(r),t}};for(var e=0;e<t.methods.length;e++){var r=t.methods[e];t[r]=t.factory(r)}t.load=function(t){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src=("https:"===document.location.protocol?"https://":"http://")+"tag.mtrcs.samba.tv/v3/tag/"+t+"/sambaTag.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(e,r)},t.attrs||(t.attrs={}),t.SNIPPET_VERSION="1.0.1",t.load("wikia/fandom-gamepedia")}}();</script>	<script type="text/javascript">
+		(function(i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function() {
+				(i[r].q = i[r].q || []).push(arguments)
+			}
+
+			, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+		ga('create', 'UA-35871056-4', 'auto', 'tracker0', []);
+		ga('create', 'UA-41338520-64', 'auto', 'tracker1', []);
+		ga('tracker0.send', 'pageview');
+
+		if (window.cdnprovider) {
+			ga(
+				'tracker1.send',
+				'pageview',
+				{
+					'dimension1':  window.cdnprovider
+				}
+			);
+		} else {
+			ga('tracker1.send', 'pageview');
+		}
+
+	</script>
+
+<div id="netbar">
+	<div class="netbar-flex">
+		<div class="netbar-box left logo"><a href="https://www.gamepedia.com">Gamepedia</a></div>
+				<div class="netbar-box left"><a href="https://support.gamepedia.com/">Help</a></div>
+												<div class="netbar-box left officialwiki"><a href="/index.php?title=Special:AllSites&amp;filter=official"><img src="/skins/Hydra/images/netbar/official-wiki.svg" width="90"></a></div>
+						<div class="netbar-spacer">&nbsp;</div>
+						<div class="netbar-box right"><a href="https://fandomauth.gamepedia.com/signin?redirect=https%3A%2F%2Fatlas.gamepedia.com%2FAcai" id="login-link" class="aqua-link">Sign In</a></div>
+					<div class="netbar-box right"><a href="https://fandomauth.gamepedia.com/register?redirect=https%3A%2F%2Fatlas.gamepedia.com%2FAcai" id="register-link" class="aqua-link">Register</a></div>
+						</div>
+</div>
+	<div id="global-wrapper" class="with-siderail">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="pageWrapper">
+			<div id="content" class="mw-body" role="main" itemprop="articleBody">
+				<a id="top"></a>
+				<div id="siteNotice" class="mw-body-content"><div id='notice-a8372d2a732b8a9fff9fb00405f687fd' class='globalNotice' data-md5='a8372d2a732b8a9fff9fb00405f687fd'><div class="mw-parser-output"><p>As part of the Unified Community Platform project, this wiki and 38 others will be migrated to the new platform in the next few weeks. Minimal changes are expected as part of this migration. <a target="_blank" rel="noreferrer noopener" class="external text" href="https://help.gamepedia.com/Gamepedia_SEO_migration_(UCP)">Read more here.</a>
+</p></div></div>
+</div>				<!-- ATF Leaderboard -->
+								<div id="atflb">
+					<div id='cdm-zone-01'></div>				</div>
+								<!-- /ATF Leaderboard -->
+				<div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en" itemprop="name">Acai</h1>				<div id="bodyContent" class="mw-body-content">
+					<div id="siteSub" class="noprint">From ATLAS Wiki</div>					<div id="contentSub"></div>
+										<div id="jump-to-nav" class="mw-jump">
+						Jump to:						<a href="#mw-head">navigation</a>, 						<a href="#p-search">search</a>
+					</div>
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="infobox infobox">
+<table class="infobox-table">
+
+<tbody><tr>
+<th colspan="2" class="infobox-header">Acai
+</th></tr>
+<tr class="infobox-spacer">
+<td colspan="2">
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-centered"><a href="/File:Acai.png" class="image"><img alt="Acai.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/128?cb=20181226165004" decoding="async" width="128" height="128" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/192?cb=20181226165004 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/256?cb=20181226165004 2x" /></a>
+</td></tr>
+
+
+<tr class="infobox-spacer">
+<td colspan="2">
+</td></tr>
+
+
+
+
+<tr>
+<td colspan="2" class="infobox-section"><a href="/Consumable" class="mw-redirect" title="Consumable">Consumable</a>
+</td></tr>
+<tr class="infobox-row">
+<th class="infobox-row-name"><b>Type</b>
+</th>
+<td class="infobox-row-value"><a href="/Category:Berry" title="Category:Berry">Berry</a>
+</td></tr>
+<tr class="infobox-row">
+<th class="infobox-row-name"><b>Food</b>
+</th>
+<td class="infobox-row-value">1
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="infobox-row">
+<th class="infobox-row-name"><b>Vitamin C <a href="/File:Vitamin_C.png" class="image"><img alt="Vitamin C.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/d/d1/Vitamin_C.png/revision/latest/scale-to-width-down/16?cb=20181227162822" decoding="async" width="16" height="16" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/d/d1/Vitamin_C.png/revision/latest/scale-to-width-down/24?cb=20181227162822 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/d/d1/Vitamin_C.png/revision/latest/scale-to-width-down/32?cb=20181227162822 2x" /></a></b>
+</th>
+<td class="infobox-row-value">1
+</td></tr>
+
+<tr>
+<td colspan="2" class="infobox-section"><a href="/Item" class="mw-redirect" title="Item">Item</a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="infobox-row">
+<th class="infobox-row-name"><b>Decomposes in</b>
+</th>
+<td class="infobox-row-value">10m
+</td></tr>
+<tr class="infobox-row">
+<th class="infobox-row-name"><b>Added in</b>
+</th>
+<td class="infobox-row-value">v<a href="/1.0" title="1.0">1.0</a>
+</td></tr>
+<tr>
+<td colspan="2" class="infobox-centered"><div style="text-align:left;" class="mw-collapsible mw-collapsed"><b>Spawn Command</b><div class="mw-collapsible-content" style="text-align:left;font-size:0.8em;word-wrap:break-word;width:310px"></div></div>
+</td></tr></tbody></table>
+</div>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext"><b>Overview</b></span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Usage"><span class="tocnumber">2</span> <span class="toctext">Usage</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Food"><span class="tocnumber">2.1</span> <span class="toctext">Food</span></a></li>
+<li class="toclevel-2"><a href="#Cooking"><span class="tocnumber">2.2</span> <span class="toctext">Cooking</span></a></li>
+<li class="toclevel-2"><a href="#Taming"><span class="tocnumber">2.3</span> <span class="toctext">Taming</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Known_Locations"><span class="tocnumber">3</span> <span class="toctext">Known Locations</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview"><b>Overview</b></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Acai&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Overview">edit</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Acai&amp;action=edit&amp;section=1" title="Edit section: Overview">edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/File:Acai.png" class="image"><img alt="Acai.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/20?cb=20181226165004" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/30?cb=20181226165004 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/40?cb=20181226165004 2x" /></a> <a class="mw-selflink selflink">Acai</a> is a type of <a href="/File:Berry.png" class="image"><img alt="Berry.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/e/ed/Berry.png/revision/latest/scale-to-width-down/20?cb=20181226191555" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/e/ed/Berry.png/revision/latest/scale-to-width-down/30?cb=20181226191555 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/e/ed/Berry.png/revision/latest/scale-to-width-down/40?cb=20181226191555 2x" /></a> <a href="/Berry" title="Berry">Berry</a> consumable. For the best harvest, when you find a type of <a href="/File:Berry.png" class="image"><img alt="Berry.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/e/ed/Berry.png/revision/latest/scale-to-width-down/20?cb=20181226191555" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/e/ed/Berry.png/revision/latest/scale-to-width-down/30?cb=20181226191555 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/e/ed/Berry.png/revision/latest/scale-to-width-down/40?cb=20181226191555 2x" /></a> <a href="/Berry" title="Berry">Berry</a> on bushes use a <a href="/Bear" title="Bear"><img alt="Bear.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/a4/Bear.png/revision/latest/scale-to-width-down/20?cb=20190625070408" decoding="async" width="20" height="18" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/a4/Bear.png/revision/latest/scale-to-width-down/30?cb=20190625070408 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/a4/Bear.png/revision/latest/scale-to-width-down/40?cb=20190625070408 2x" /></a> <a href="/Bear" title="Bear">Bear</a> or a <a href="/File:Scythe.png" class="image"><img alt="Scythe.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/c/cd/Scythe.png/revision/latest/scale-to-width-down/20?cb=20181226191048" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/c/cd/Scythe.png/revision/latest/scale-to-width-down/30?cb=20181226191048 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/c/cd/Scythe.png/revision/latest/scale-to-width-down/40?cb=20181226191048 2x" /></a> <a href="/Metal_Sickle" title="Metal Sickle">Metal Sickle</a> to gather them and when you find them on trees use a <a href="/Giraffe" title="Giraffe"><img alt="Giraffe.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/6/60/Giraffe.png/revision/latest/scale-to-width-down/17?cb=20190701163817" decoding="async" width="17" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/6/60/Giraffe.png/revision/latest/scale-to-width-down/25?cb=20190701163817 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/6/60/Giraffe.png/revision/latest/scale-to-width-down/34?cb=20190701163817 2x" /></a> <a href="/Giraffe" title="Giraffe">Giraffe</a> or a <a href="/File:Metal_Pick.png" class="image"><img alt="Metal Pick.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/9/9f/Metal_Pick.png/revision/latest/scale-to-width-down/20?cb=20181227230511" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/9/9f/Metal_Pick.png/revision/latest/scale-to-width-down/30?cb=20181227230511 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/9/9f/Metal_Pick.png/revision/latest/scale-to-width-down/40?cb=20181227230511 2x" /></a> <a href="/Metal_Pick" title="Metal Pick">Metal Pick</a> to gather them. In either case, you can also harvest them by hand (either by punching or by pressing <span class="key" style="display:inline-block; white-space:nowrap;"><a href="/Controls" title="Controls"><kbd class="keysDark">e</kbd></a></span>) and with some other tools and tamed animals, but they are less effective.
+</p>
+<h2><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Acai&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: Usage">edit</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Acai&amp;action=edit&amp;section=2" title="Edit section: Usage">edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p class="mw-empty-elt">
+</p><h3><span class="mw-headline" id="Food"><a href="/Food" title="Food">Food</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Template:Berry_Usage&amp;action=edit&amp;section=T-1" title="Edit section: ">edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Your pathfinder can eat <a href="/File:Acai.png" class="image"><img alt="Acai.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/20?cb=20181226165004" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/30?cb=20181226165004 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/40?cb=20181226165004 2x" /></a> <a class="mw-selflink selflink">Acai</a> and other <a href="/File:Berry.png" class="image"><img alt="Berry.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/e/ed/Berry.png/revision/latest/scale-to-width-down/20?cb=20181226191555" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/e/ed/Berry.png/revision/latest/scale-to-width-down/30?cb=20181226191555 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/e/ed/Berry.png/revision/latest/scale-to-width-down/40?cb=20181226191555 2x" /></a> <a href="/Berry" title="Berry">Berry</a> to fill a small amount of <a href="/File:Food.png" class="image"><img alt="Food.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/c/c6/Food.png/revision/latest/scale-to-width-down/20?cb=20190101234226" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/c/c6/Food.png/revision/latest/scale-to-width-down/30?cb=20190101234226 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/c/c6/Food.png/revision/latest/scale-to-width-down/40?cb=20190101234226 2x" /></a> <a href="/Food" title="Food">Food</a> and to recover a small amount of <a href="/File:Vitamin_C.png" class="image"><img alt="Vitamin C.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/d/d1/Vitamin_C.png/revision/latest/scale-to-width-down/20?cb=20181227162822" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/d/d1/Vitamin_C.png/revision/latest/scale-to-width-down/30?cb=20181227162822 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/d/d1/Vitamin_C.png/revision/latest/scale-to-width-down/40?cb=20181227162822 2x" /></a> <a href="/Vitamin_C" title="Vitamin C">Vitamin C</a>.
+</p>
+<h3><span class="mw-headline" id="Cooking"><a href="/Cooking" title="Cooking">Cooking</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Template:Berry_Usage&amp;action=edit&amp;section=T-2" title="Edit section: ">edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/File:Acai.png" class="image"><img alt="Acai.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/20?cb=20181226165004" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/30?cb=20181226165004 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/40?cb=20181226165004 2x" /></a> <a class="mw-selflink selflink">Acai</a> is required to make:
+</p>
+<ul><li><a href="/File:Song_Of_The_Sea.png" class="image"><img alt="Song Of The Sea.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/7/7f/Song_Of_The_Sea.png/revision/latest/scale-to-width-down/20?cb=20181227160742" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/7/7f/Song_Of_The_Sea.png/revision/latest/scale-to-width-down/30?cb=20181227160742 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/7/7f/Song_Of_The_Sea.png/revision/latest/scale-to-width-down/40?cb=20181227160742 2x" /></a> <a href="/Song_Of_The_Sea" title="Song Of The Sea">Song Of The Sea</a></li></ul>
+<p>And you can use any type of <a href="/File:Berry.png" class="image"><img alt="Berry.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/e/ed/Berry.png/revision/latest/scale-to-width-down/20?cb=20181226191555" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/e/ed/Berry.png/revision/latest/scale-to-width-down/30?cb=20181226191555 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/e/ed/Berry.png/revision/latest/scale-to-width-down/40?cb=20181226191555 2x" /></a> <a href="/Berry" title="Berry">Berry</a> to make:
+</p>
+<ul><li><a href="/File:Berry_Tea.png" class="image"><img alt="Berry Tea.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/3/38/Berry_Tea.png/revision/latest/scale-to-width-down/20?cb=20181227160141" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/3/38/Berry_Tea.png/revision/latest/scale-to-width-down/30?cb=20181227160141 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/3/38/Berry_Tea.png/revision/latest/scale-to-width-down/40?cb=20181227160141 2x" /></a> <a href="/Berry_Tea" title="Berry Tea">Berry Tea</a></li><li><a href="/File:Dye.png" class="image"><img alt="Dye.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/f/fb/Dye.png/revision/latest/scale-to-width-down/20?cb=20190110114822" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/f/fb/Dye.png/revision/latest/scale-to-width-down/30?cb=20190110114822 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/f/fb/Dye.png/revision/latest/scale-to-width-down/40?cb=20190110114822 2x" /></a> <a href="/Coloring" title="Coloring">Coloring</a></li><li><a href="/File:Dragon%27s_Tongue_Delight.png" class="image"><img alt="Dragon&#39;s Tongue Delight.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/9/94/Dragon%27s_Tongue_Delight.png/revision/latest/scale-to-width-down/20?cb=20190213194423" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/9/94/Dragon%27s_Tongue_Delight.png/revision/latest/scale-to-width-down/30?cb=20190213194423 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/9/94/Dragon%27s_Tongue_Delight.png/revision/latest/scale-to-width-down/40?cb=20190213194423 2x" /></a> <a href="/Dragon%27s_Tongue_Delight" title="Dragon&#39;s Tongue Delight">Dragon's Tongue Delight</a></li><li><a href="/File:Organic_Paste_(Coral).png" class="image"><img alt="Organic Paste (Coral).png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/7/7f/Organic_Paste_%28Coral%29.png/revision/latest/scale-to-width-down/20?cb=20190102003456" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/7/7f/Organic_Paste_%28Coral%29.png/revision/latest/scale-to-width-down/30?cb=20190102003456 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/7/7f/Organic_Paste_%28Coral%29.png/revision/latest/scale-to-width-down/40?cb=20190102003456 2x" /></a> <a href="/Organic_Paste_(Coral)" title="Organic Paste (Coral)">Organic Paste (Coral)</a></li><li><a href="/File:Unthinkable_Delicacy_Food.png" class="image"><img alt="Unthinkable Delicacy Food.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/1/15/Unthinkable_Delicacy_Food.png/revision/latest/scale-to-width-down/20?cb=20190324083851" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/1/15/Unthinkable_Delicacy_Food.png/revision/latest/scale-to-width-down/30?cb=20190324083851 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/1/15/Unthinkable_Delicacy_Food.png/revision/latest/scale-to-width-down/40?cb=20190324083851 2x" /></a> <a href="/Unthinkable_Delicacy_Food" title="Unthinkable Delicacy Food">Unthinkable Delicacy Food</a></li></ul>
+<h3><span class="mw-headline" id="Taming"><a href="/Taming" title="Taming">Taming</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Template:Berry_Usage&amp;action=edit&amp;section=T-3" title="Edit section: ">edit source</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>While no type of <a href="/File:Berry.png" class="image"><img alt="Berry.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/e/ed/Berry.png/revision/latest/scale-to-width-down/20?cb=20181226191555" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/e/ed/Berry.png/revision/latest/scale-to-width-down/30?cb=20181226191555 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/e/ed/Berry.png/revision/latest/scale-to-width-down/40?cb=20181226191555 2x" /></a> <a href="/Berry" title="Berry">Berry</a> is the preferred food for any animal, you can use them to tame—at a low effectiveness—the following:
+</p>
+<ul style="column-width:15em;"><li><a href="/File:Bear.png" class="image"><img alt="Bear.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/a4/Bear.png/revision/latest/scale-to-width-down/20?cb=20190625070408" decoding="async" width="20" height="18" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/a4/Bear.png/revision/latest/scale-to-width-down/30?cb=20190625070408 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/a4/Bear.png/revision/latest/scale-to-width-down/40?cb=20190625070408 2x" /></a> <a href="/Bear" title="Bear">Bear</a></li><li><a href="/File:Bull.png" class="image"><img alt="Bull.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/7/7a/Bull.png/revision/latest/scale-to-width-down/20?cb=20190625065026" decoding="async" width="20" height="22" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/7/7a/Bull.png/revision/latest/scale-to-width-down/30?cb=20190625065026 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/7/7a/Bull.png/revision/latest/scale-to-width-down/40?cb=20190625065026 2x" /></a> <a href="/Bull" class="mw-redirect" title="Bull">Bull</a></li><li><a href="/File:Chicken.png" class="image"><img alt="Chicken.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/a3/Chicken.png/revision/latest/scale-to-width-down/20?cb=20190625071309" decoding="async" width="20" height="32" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/a3/Chicken.png/revision/latest/scale-to-width-down/30?cb=20190625071309 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/a3/Chicken.png/revision/latest/scale-to-width-down/40?cb=20190625071309 2x" /></a> <a href="/Chicken" title="Chicken">Chicken</a></li><li><a href="/File:Cow.png" class="image"><img alt="Cow.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/8/84/Cow.png/revision/latest/scale-to-width-down/20?cb=20190624212415" decoding="async" width="20" height="15" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/8/84/Cow.png/revision/latest/scale-to-width-down/30?cb=20190624212415 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/8/84/Cow.png/revision/latest/scale-to-width-down/40?cb=20190624212415 2x" /></a> <a href="/Cow" title="Cow">Cow</a></li><li><a href="/File:Crow.png" class="image"><img alt="Crow.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/f/fa/Crow.png/revision/latest/scale-to-width-down/20?cb=20200811160727" decoding="async" width="20" height="15" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/f/fa/Crow.png/revision/latest/scale-to-width-down/30?cb=20200811160727 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/f/fa/Crow.png/revision/latest/scale-to-width-down/40?cb=20200811160727 2x" /></a> <a href="/Crow" title="Crow">Crow</a></li><li><a href="/File:Horse.png" class="image"><img alt="Horse.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/c/c3/Horse.png/revision/latest/scale-to-width-down/20?cb=20190625082307" decoding="async" width="20" height="15" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/c/c3/Horse.png/revision/latest/scale-to-width-down/30?cb=20190625082307 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/c/c3/Horse.png/revision/latest/scale-to-width-down/40?cb=20190625082307 2x" /></a> <a href="/Horse" title="Horse">Horse</a></li><li><a href="/File:Monkey.png" class="image"><img alt="Monkey.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/2/27/Monkey.png/revision/latest/scale-to-width-down/20?cb=20190625072251" decoding="async" width="20" height="19" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/2/27/Monkey.png/revision/latest/scale-to-width-down/30?cb=20190625072251 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/2/27/Monkey.png/revision/latest/scale-to-width-down/40?cb=20190625072251 2x" /></a> <a href="/Monkey" title="Monkey">Monkey</a></li><li><a href="/File:Ostrich.png" class="image"><img alt="Ostrich.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ad/Ostrich.png/revision/latest/scale-to-width-down/20?cb=20190625090134" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ad/Ostrich.png/revision/latest/scale-to-width-down/30?cb=20190625090134 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ad/Ostrich.png/revision/latest/scale-to-width-down/40?cb=20190625090134 2x" /></a> <a href="/Ostrich" title="Ostrich">Ostrich</a></li><li><a href="/File:Parrot.png" class="image"><img alt="Parrot.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/1/16/Parrot.png/revision/latest/scale-to-width-down/20?cb=20190625073640" decoding="async" width="20" height="25" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/1/16/Parrot.png/revision/latest/scale-to-width-down/30?cb=20190625073640 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/1/16/Parrot.png/revision/latest/scale-to-width-down/40?cb=20190625073640 2x" /></a> <a href="/Parrot" title="Parrot">Parrot</a></li><li><a href="/File:Pig.png" class="image"><img alt="Pig.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/3/30/Pig.png/revision/latest/scale-to-width-down/20?cb=20190625075214" decoding="async" width="20" height="13" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/3/30/Pig.png/revision/latest/scale-to-width-down/30?cb=20190625075214 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/3/30/Pig.png/revision/latest/scale-to-width-down/40?cb=20190625075214 2x" /></a> <a href="/Pig" title="Pig">Pig</a></li><li><a href="/File:Rabbit.png" class="image"><img alt="Rabbit.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/f/fd/Rabbit.png/revision/latest/scale-to-width-down/20?cb=20190627161449" decoding="async" width="20" height="32" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/f/fd/Rabbit.png/revision/latest/scale-to-width-down/30?cb=20190627161449 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/f/fd/Rabbit.png/revision/latest/scale-to-width-down/40?cb=20190627161449 2x" /></a> <a href="/Rabbit" title="Rabbit">Rabbit</a></li><li><a href="/File:Sheep.png" class="image"><img alt="Sheep.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/c/cc/Sheep.png/revision/latest/scale-to-width-down/20?cb=20190625154052" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/c/cc/Sheep.png/revision/latest/scale-to-width-down/30?cb=20190625154052 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/c/cc/Sheep.png/revision/latest/scale-to-width-down/40?cb=20190625154052 2x" /></a> <a href="/Sheep" title="Sheep">Sheep</a></li></ul>
+<h2><span class="mw-headline" id="Known_Locations">Known Locations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Acai&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edit section: Known Locations">edit</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Acai&amp;action=edit&amp;section=3" title="Edit section: Known Locations">edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>You can find <a href="/File:Acai.png" class="image"><img alt="Acai.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/20?cb=20181226165004" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/30?cb=20181226165004 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/40?cb=20181226165004 2x" /></a> <a class="mw-selflink selflink">Acai</a> in the regions linked in the chart below. Please store specific location information in the pages for the regions where you have found it. <i>(<a href="/How_To_Add_a_Link_to_a_Known_Locations_Table" title="How To Add a Link to a Known Locations Table">How To Add a Region</a>)</i>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>
+</th>
+<th><b><big>A</big></b>
+</th>
+<th><b><big>B</big></b>
+</th>
+<th><b><big>C</big></b>
+</th>
+<th><b><big>D</big></b>
+</th>
+<th><b><big>E</big></b>
+</th>
+<th><b><big>F</big></b>
+</th>
+<th><b><big>G</big></b>
+</th>
+<th><b><big>H</big></b>
+</th>
+<th><b><big>I</big></b>
+</th>
+<th><b><big>J</big></b>
+</th>
+<th><b><big>K</big></b>
+</th></tr>
+<tr>
+<th><b><big>1</big></b>
+</th>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><a href="/F1" class="mw-redirect" title="F1">F1</a>
+</td>
+<td><a href="/G1" class="mw-redirect" title="G1">G1</a>
+</td>
+<td><a href="/H1" class="mw-redirect" title="H1">H1</a>
+</td>
+<td><a href="/I1" class="mw-redirect" title="I1">I1</a>
+</td>
+<td><a href="/J1" class="mw-redirect" title="J1">J1</a>
+</td>
+<td><a href="/K1" class="mw-redirect" title="K1">K1</a>
+</td></tr>
+<tr>
+<th><b><big>2</big></b>
+</th>
+<td>
+</td>
+<td><a href="/B2" class="mw-redirect" title="B2">B2</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><a href="/F2" class="mw-redirect" title="F2">F2</a>
+</td>
+<td><a href="/G2" class="mw-redirect" title="G2">G2</a>
+</td>
+<td><a href="/H2" class="mw-redirect" title="H2">H2</a>
+</td>
+<td><a href="/I2" class="mw-redirect" title="I2">I2</a>
+</td>
+<td><a href="/J2" class="mw-redirect" title="J2">J2</a>
+</td>
+<td><a href="/K2" class="mw-redirect" title="K2">K2</a>
+</td></tr>
+<tr>
+<th><b><big>3</big></b>
+</th>
+<td>
+</td>
+<td><a href="/B3" class="mw-redirect" title="B3">B3</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><a href="/F3" class="mw-redirect" title="F3">F3</a>
+</td>
+<td><a href="/G3" class="mw-redirect" title="G3">G3</a>
+</td>
+<td><a href="/H3" class="mw-redirect" title="H3">H3</a>
+</td>
+<td><a href="/I3" class="mw-redirect" title="I3">I3</a>
+</td>
+<td><a href="/J3" class="mw-redirect" title="J3">J3</a>
+</td>
+<td><a href="/K3" class="mw-redirect" title="K3">K3</a>
+</td></tr>
+<tr>
+<th><b><big>4</big></b>
+</th>
+<td>
+</td>
+<td><a href="/B4" class="mw-redirect" title="B4">B4</a>
+</td>
+<td>
+</td>
+<td><a href="/D4" class="mw-redirect" title="D4">D4</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><a href="/G4" class="mw-redirect" title="G4">G4</a>
+</td>
+<td><a href="/H4" class="mw-redirect" title="H4">H4</a>
+</td>
+<td><a href="/I4" class="mw-redirect" title="I4">I4</a>
+</td>
+<td><a href="/J4" class="mw-redirect" title="J4">J4</a>
+</td>
+<td><a href="/K4" class="mw-redirect" title="K4">K4</a>
+</td></tr>
+<tr>
+<th><b><big>5</big></b>
+</th>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><a href="/D5" class="mw-redirect" title="D5">D5</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><a href="/G5" class="mw-redirect" title="G5">G5</a>
+</td>
+<td><a href="/H5" class="mw-redirect" title="H5">H5</a>
+</td>
+<td><a href="/I5" class="mw-redirect" title="I5">I5</a>
+</td>
+<td><a href="/J5" class="mw-redirect" title="J5">J5</a>
+</td>
+<td><a href="/K5" class="mw-redirect" title="K5">K5</a>
+</td></tr>
+<tr>
+<th><b><big>6</big></b>
+</th>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><a href="/D6" class="mw-redirect" title="D6">D6</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><b><big>7</big></b>
+</th>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><a href="/D7" class="mw-redirect" title="D7">D7</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><b><big>8</big></b>
+</th>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><b><big>9</big></b>
+</th>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><b><big>10</big></b>
+</th>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th><b><big>11</big></b>
+</th>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+<p><br />
+<br />
+</p>
+<table class="navbox" cellspacing="0" style=";"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible expanded" style="width:100%;background:transparent;color:inherit;;" data-expandtext="show" data-collapsetext="hide"><tbody><tr><th style=";" colspan="2" class="navbox-title"><span style="float:left;width:6em;text-align:left;"><span class="noprint plainlinks navbar" style=""><span style="white-space:nowrap;word-spacing:-.12em;"><a href="/Template:Nav_consumables" title="Template:Nav consumables"><span style=";;background:none transparent;border:none;font-size:100%;" title="View this template">v</span></a><span style=";;background:none transparent;border:none;font-size:100%;">&#32;<b>&#183;</b>&#32;</span><a href="/index.php?title=Template_talk:Nav_consumables&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Nav consumables (page does not exist)"><span style=";;background:none transparent;border:none;font-size:100%;" title="Discuss this template">d</span></a><span style=";;background:none transparent;border:none;font-size:100%;">&#32;<b>&#183;</b>&#32;</span><a target="_blank" rel="noreferrer noopener" class="external text" href="https://atlas.gamepedia.com/index.php?title=Template:Nav_consumables&amp;action=edit"><span style=";;background:none transparent;border:none;font-size:100%;" title="Edit this template">e</span></a></span></span></span><span class="" style="font-size:110%;"><a href="/Food" title="Food">Consumables</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+</div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;" data-expandtext="show" data-collapsetext="hide"><tbody><tr><td class="navbox-group" style=";;"><a href="/File:Acai.png" class="image"><img alt="Acai.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/20?cb=20181226165004" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/30?cb=20181226165004 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/a/ae/Acai.png/revision/latest/scale-to-width-down/40?cb=20181226165004 2x" /></a> Berries</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a class="mw-selflink selflink">Acai</a> &#160;&#8226;&#160; <a href="/Acerolla" title="Acerolla">Acerolla</a>  &#160;&#8226;&#160; <a href="/Arctic_Raspberry" title="Arctic Raspberry">Arctic Raspberry</a> &#160;&#8226;&#160; <a href="/Bilberry" title="Bilberry">Bilberry</a> &#160;&#8226;&#160; <a href="/Blackberry" title="Blackberry">Blackberry</a> &#160;&#8226;&#160;<a href="/Elderberry" title="Elderberry">Elderberry</a> &#160;&#8226;&#160; <a href="/Lignonberry" title="Lignonberry">Lignonberry</a> &#160;&#8226;&#160; <a href="/Schisandra" title="Schisandra">Schisandra</a>  &#160;&#8226;&#160; <a href="/Sea_Grapes" title="Sea Grapes">Sea Grapes</a> &#160;&#8226;&#160; <a href="/Strawberry" title="Strawberry">Strawberry</a></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/File:Cilantro.png" class="image"><img alt="Cilantro.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/e/e9/Cilantro.png/revision/latest/scale-to-width-down/20?cb=20181228005147" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/e/e9/Cilantro.png/revision/latest/scale-to-width-down/30?cb=20181228005147 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/e/e9/Cilantro.png/revision/latest/scale-to-width-down/40?cb=20181228005147 2x" /></a> Cooking Herbs</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/Cilantro" title="Cilantro">Cilantro</a> &#160;&#8226;&#160; <a href="/Garlic" title="Garlic">Garlic</a> &#160;&#8226;&#160; <a href="/Green_Algae" title="Green Algae">Green Algae</a> &#160;&#8226;&#160; <a href="/Red_Algae" title="Red Algae">Red Algae</a>&#160;&#8226;&#160; <a href="/Mint" title="Mint">Mint</a> &#160;&#8226;&#160; <a href="/Oregano" title="Oregano">Oregano</a> &#160;&#8226;&#160; <a href="/Parsley" title="Parsley">Parsley</a> &#160;&#8226;&#160; <a href="/Rosemary" title="Rosemary">Rosemary</a> &#160;&#8226;&#160; <a href="/Thyme" title="Thyme">Thyme</a></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/File:Aloe.png" class="image"><img alt="Aloe.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/6/66/Aloe.png/revision/latest/scale-to-width-down/20?cb=20181226224403" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/6/66/Aloe.png/revision/latest/scale-to-width-down/30?cb=20181226224403 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/6/66/Aloe.png/revision/latest/scale-to-width-down/40?cb=20181226224403 2x" /></a> Medicinal Herbs</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/Aloe" title="Aloe">Aloe</a> &#160;&#8226;&#160; <a href="/Basil" title="Basil">Basil</a> &#160;&#8226;&#160; <a href="/Chamomile" title="Chamomile">Chamomile</a> &#160;&#8226;&#160; <a href="/Licorice" title="Licorice">Licorice</a> &#160;&#8226;&#160; <a href="/Poppy" title="Poppy">Poppy</a> &#160;&#8226;&#160; <a href="/Spirulina" title="Spirulina">Spirulina</a> &#160;&#8226;&#160; <a href="/Turmeric" title="Turmeric">Turmeric</a> &#160;&#8226;&#160; <a href="/Yarrow" title="Yarrow">Yarrow</a></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/File:Cocoa.png" class="image"><img alt="Cocoa.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/8/8d/Cocoa.png/revision/latest/scale-to-width-down/20?cb=20181226191604" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/8/8d/Cocoa.png/revision/latest/scale-to-width-down/30?cb=20181226191604 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/8/8d/Cocoa.png/revision/latest/scale-to-width-down/40?cb=20181226191604 2x" /></a> Fruits</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/Cocoa" title="Cocoa">Cocoa</a> &#160;&#8226;&#160; <a href="/Coconut" title="Coconut">Coconut</a> &#160;&#8226;&#160; <a href="/Lime" title="Lime">Lime</a> &#160;&#8226;&#160; <a href="/Olive" title="Olive">Olive</a></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/File:Beans.png" class="image"><img alt="Beans.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/9/9f/Beans.png/revision/latest/scale-to-width-down/20?cb=20181228004653" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/9/9f/Beans.png/revision/latest/scale-to-width-down/30?cb=20181228004653 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/9/9f/Beans.png/revision/latest/scale-to-width-down/40?cb=20181228004653 2x" /></a> Wild Vegetables</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/Wild_Beans" title="Wild Beans">Wild Beans</a> &#160;&#8226;&#160; <a href="/Wild_Beet" title="Wild Beet">Wild Beet</a>  &#160;&#8226;&#160; <a href="/Wild_Cactus" title="Wild Cactus">Wild Cactus</a> &#160;&#8226;&#160; <a href="/Wild_Carrot" title="Wild Carrot">Wild Carrot</a> &#160;&#8226;&#160; <a href="/Celery" title="Celery">Celery</a> &#160;&#8226;&#160; <a href="/Wild_Chickpeas" title="Wild Chickpeas">Wild Chickpeas</a> &#160;&#8226;&#160; <a href="/Wild_Chili" title="Wild Chili">Wild Chili</a> &#160;&#8226;&#160; <a href="/Wild_Greens" title="Wild Greens">Wild Greens</a> &#160;&#8226;&#160; <a href="/Wild_Maize" title="Wild Maize">Wild Maize</a> &#160;&#8226;&#160; <a href="/Wild_Onion" title="Wild Onion">Wild Onion</a> &#160;&#8226;&#160; <a href="/Wild_Pepper" title="Wild Pepper">Wild Pepper</a> &#160;&#8226;&#160; <a href="/Wild_Potato" title="Wild Potato">Wild Potato</a>&#160;&#8226;&#160; <a href="/Wild_Rice" title="Wild Rice">Wild Rice</a> &#160;&#8226;&#160; <a href="/Wild_Turnip" title="Wild Turnip">Wild Turnip</a> &#160;&#8226;&#160; <a href="/Wheatgrass" title="Wheatgrass">Wheatgrass</a></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/File:Onion.png" class="image"><img alt="Onion.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/5/51/Onion.png/revision/latest/scale-to-width-down/20?cb=20181228004728" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/5/51/Onion.png/revision/latest/scale-to-width-down/30?cb=20181228004728 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/5/51/Onion.png/revision/latest/scale-to-width-down/40?cb=20181228004728 2x" /></a> Cultivated Vegetables</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/Beans" title="Beans">Beans</a> &#160;&#8226;&#160; <a href="/Beet" title="Beet">Beet</a>  &#160;&#8226;&#160; <a href="/Cactus" title="Cactus">Cactus</a> &#160;&#8226;&#160; <a href="/Carrot" title="Carrot">Carrot</a>&#160;&#8226;&#160; <a href="/Chickpeas" title="Chickpeas">Chickpeas</a> &#160;&#8226;&#160; <a href="/Chili" title="Chili">Chili</a> &#160;&#8226;&#160; <a href="/Edible_Greens" title="Edible Greens">Edible Greens</a> &#160;&#8226;&#160; <a href="/Maize" title="Maize">Maize</a> &#160;&#8226;&#160; <a href="/Onion" title="Onion">Onion</a> &#160;&#8226;&#160; <a href="/Pepper" title="Pepper">Pepper</a> &#160;&#8226;&#160; <a href="/Potato" title="Potato">Potato</a>&#160;&#8226;&#160; <a href="/Rice" title="Rice">Rice</a> &#160;&#8226;&#160; <a href="/Turnip" title="Turnip">Turnip</a> &#160;&#8226;&#160; <a href="/Wheat" title="Wheat">Wheat</a></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/File:Berry_Tea.png" class="image"><img alt="Berry Tea.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/3/38/Berry_Tea.png/revision/latest/scale-to-width-down/20?cb=20181227160141" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/3/38/Berry_Tea.png/revision/latest/scale-to-width-down/30?cb=20181227160141 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/3/38/Berry_Tea.png/revision/latest/scale-to-width-down/40?cb=20181227160141 2x" /></a> Cooking</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/Ale" title="Ale">Ale</a>  &#160;&#8226;&#160; <a href="/Beef_Buns" class="mw-redirect" title="Beef Buns">Beef Buns</a> &#160;&#8226;&#160; <a href="/Berry_Tea" title="Berry Tea">Berry Tea</a> &#160;&#8226;&#160; <a href="/Bubble_N%27_Squeak" title="Bubble N&#39; Squeak">Bubble N' Squeak</a> &#160;&#8226;&#160; <a href="/Celery_Soup" class="mw-redirect" title="Celery Soup">Celery Soup</a> &#160;&#8226;&#160; <a href="/Cooked_Fish" title="Cooked Fish">Cooked Fish</a> &#160;&#8226;&#160; <a href="/Cooked_Meat" title="Cooked Meat">Cooked Meat</a>&#160;&#8226;&#160; <a href="/Cooked_Prime_Meat" class="mw-redirect" title="Cooked Prime Meat">Cooked Prime Meat</a> &#160;&#8226;&#160; <a href="/Creme_Brulee" class="mw-redirect" title="Creme Brulee">Creme Brulee</a> &#160;&#8226;&#160; <a href="/Drake%27s_Dark_Draught" class="mw-redirect" title="Drake&#39;s Dark Draught">Drake's Dark Draught</a> &#160;&#8226;&#160; <a href="/Dragons_Tongue" class="mw-redirect" title="Dragons Tongue">Dragons Tongue</a> &#160;&#8226;&#160; <a href="/Fish_%27n_Chips" title="Fish &#39;n Chips">Fish 'n Chips</a> &#160;&#8226;&#160; <a href="/Grog" title="Grog">Grog</a> &#160;&#8226;&#160; <a href="/Hardtack" title="Hardtack">Hardtack</a> &#160;&#8226;&#160; <a href="/Hot_Chocolate" class="mw-redirect" title="Hot Chocolate">Hot Chocolate</a> &#160;&#8226;&#160; <a href="/Monarchs_Cake" class="mw-redirect" title="Monarchs Cake">Monarchs Cake</a> &#160;&#8226;&#160; <a href="/Pork_Pie" title="Pork Pie">Pork Pie</a> &#160;&#8226;&#160; <a href="/Pudding" class="mw-redirect" title="Pudding">Pudding</a> &#160;&#8226;&#160; <a href="/Reapers_Regard" class="mw-redirect" title="Reapers Regard">Reapers Regard</a> &#160;&#8226;&#160; <a href="/Rosemary_Chicken" class="mw-redirect" title="Rosemary Chicken">Rosemary Chicken</a> &#160;&#8226;&#160; <a href="/Salted_Fish" title="Salted Fish">Salted Fish</a> &#160;&#8226;&#160; <a href="/Salted_Prime_Fish" title="Salted Prime Fish">Salted Prime Fish</a> &#160;&#8226;&#160; <a href="/Salted_Meat" title="Salted Meat">Salted Meat</a> &#160;&#8226;&#160; <a href="/Salted_Prime_Meat" title="Salted Prime Meat">Salted Prime Meat</a> &#160;&#8226;&#160; <a href="/Shrunken_Head_Stew" class="mw-redirect" title="Shrunken Head Stew">Shrunken Head Stew</a> &#160;&#8226;&#160; <a href="/Song_Of_The_Sea" title="Song Of The Sea">Song Of The Sea</a> &#160;&#8226;&#160; <a href="/Spiced_Rum" class="mw-redirect" title="Spiced Rum">Spiced Rum</a> &#160;&#8226;&#160; <a href="/Spicy_Roll" title="Spicy Roll">Spicy Roll</a> &#160;&#8226;&#160; <a href="/Stuffed_Baked_Fish" class="mw-redirect" title="Stuffed Baked Fish">Stuffed Baked Fish</a> &#160;&#8226;&#160; <a href="/Tara_Nostri_Treat" class="mw-redirect" title="Tara Nostri Treat">Tara Nostri Treat</a> &#160;&#8226;&#160; <a href="/Unthinkable_Delicacy" class="mw-redirect" title="Unthinkable Delicacy">Unthinkable Delicacy</a></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/File:Prime_Animal_Meat.png" class="image"><img alt="Prime Animal Meat.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/8/8c/Prime_Animal_Meat.png/revision/latest/scale-to-width-down/20?cb=20181226195608" decoding="async" width="20" height="20" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/8/8c/Prime_Animal_Meat.png/revision/latest/scale-to-width-down/30?cb=20181226195608 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/8/8c/Prime_Animal_Meat.png/revision/latest/scale-to-width-down/40?cb=20181226195608 2x" /></a> Meat</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/Animal_Meat" title="Animal Meat">Animal Meat</a> &#160;&#8226;&#160;  <a href="/Fish_Meat" title="Fish Meat">Fish Meat</a> &#160;&#8226;&#160; <a href="/Prime_Animal_Meat" title="Prime Animal Meat">Prime Meat</a> &#160;&#8226;&#160; <a href="/Prime_Fish_Meat" title="Prime Fish Meat">Prime Fish</a> &#160;&#8226;&#160; <a href="/Crustacean_Meat" title="Crustacean Meat">Crustacean Meat</a> &#160;&#8226;&#160; <a href="/Earthworms" title="Earthworms">Earthworms</a> &#160;&#8226;&#160; <a href="/Marrow" title="Marrow">Marrow</a> &#160;&#8226;&#160; <a href="/Rotten_Meat" title="Rotten Meat">Rotten Meat</a> &#160;&#8226;&#160; <a href="/Squid_Innards" title="Squid Innards">Squid Innards</a></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;"><a href="/File:Chicken_Egg.png" class="image"><img alt="Chicken Egg.png" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/7/7d/Chicken_Egg.png/revision/latest/scale-to-width-down/20?cb=20190109094411" decoding="async" width="20" height="11" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/7/7d/Chicken_Egg.png/revision/latest/scale-to-width-down/30?cb=20190109094411 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/7/7d/Chicken_Egg.png/revision/latest/scale-to-width-down/40?cb=20190109094411 2x" /></a> Eggs</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/Chicken_Egg" title="Chicken Egg">Chicken Egg</a> &#160;&#8226;&#160; <a href="/index.php?title=Crow_Egg&amp;action=edit&amp;redlink=1" class="new" title="Crow Egg (page does not exist)">Crow Egg</a> &#160;&#8226;&#160; <a href="/index.php?title=Ostrich_Egg&amp;action=edit&amp;redlink=1" class="new" title="Ostrich Egg (page does not exist)">Ostrich Egg</a> &#160;&#8226;&#160; <a href="/index.php?title=Parrot_Egg&amp;action=edit&amp;redlink=1" class="new" title="Parrot Egg (page does not exist)">Parrot Egg</a> &#160;&#8226;&#160; <a href="/index.php?title=Penguin_Egg&amp;action=edit&amp;redlink=1" class="new" title="Penguin Egg (page does not exist)">Penguin Egg</a> &#160;&#8226;&#160; <a href="/index.php?title=Razortooth_Egg&amp;action=edit&amp;redlink=1" class="new" title="Razortooth Egg (page does not exist)">Razortooth Egg</a> &#160;&#8226;&#160; <a href="/index.php?title=Seagull_Egg&amp;action=edit&amp;redlink=1" class="new" title="Seagull Egg (page does not exist)">Seagull Egg</a> &#160;&#8226;&#160; <a href="/index.php?title=Shieldhorn_Egg&amp;action=edit&amp;redlink=1" class="new" title="Shieldhorn Egg (page does not exist)">Shieldhorn Egg</a> &#160;&#8226;&#160; <a href="/index.php?title=Vulture_Egg&amp;action=edit&amp;redlink=1" class="new" title="Vulture Egg (page does not exist)">Vulture Egg</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Acai&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edit section: Gallery">edit</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Acai&amp;action=edit&amp;section=4" title="Edit section: Gallery">edit source</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:AcaiPlant.png" class="image"><img alt="" src="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/2/2f/AcaiPlant.png/revision/latest/scale-to-width-down/300?cb=20200315024949" decoding="async" width="300" height="169" class="thumbimage" srcset="https://static.wikia.nocookie.net/atlas_gamepedia_en/images/2/2f/AcaiPlant.png/revision/latest/scale-to-width-down/450?cb=20200315024949 1.5x, https://static.wikia.nocookie.net/atlas_gamepedia_en/images/2/2f/AcaiPlant.png/revision/latest/scale-to-width-down/600?cb=20200315024949 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:AcaiPlant.png" class="internal" title="Enlarge"></a></div>Acai Plant</div></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20200916133219
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.169 seconds
+Real time usage: 0.292 seconds
+Preprocessor visited node count: 1967/1000000
+Preprocessor generated node count: 16324/1000000
+Post‐expand include size: 55839/2097152 bytes
+Template argument size: 23225/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/99
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+ExtLoops count: 0
+Lua time usage: 0.010/7 seconds
+Lua virtual size: 4.96 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  190.063      1 -total
+ 41.92%   79.678      1 Template:Infobox_consumable
+ 29.52%   56.105      1 Template:Berry_Usage
+ 28.43%   54.035      2 Template:Navbox
+ 25.77%   48.971      3 Template:ItemList
+ 24.97%   47.468      2 Template:List_crafted_with
+ 20.43%   38.833      1 Template:Nav_consumables
+ 19.09%   36.274      1 Template:Infobox_consumable_section
+  7.79%   14.808      1 Template:Infobox_item_section
+  7.43%   14.131     25 Template:Infobox_row
+-->
+
+<!-- Saved in parser cache with key atlas_gamepedia_en:pcache:idhash:523-0!canonical and timestamp 20200916133218 and revision id 48425
+ -->
+</div></div>						<div class="printfooter">
+							Retrieved from "<a dir="ltr" href="https://atlas.gamepedia.com/index.php?title=Acai&amp;oldid=48425">https://atlas.gamepedia.com/index.php?title=Acai&amp;oldid=48425</a>"						</div>
+						<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Berry" title="Category:Berry">Berry</a></li><li><a href="/Category:Foods_that_give_vitamin_C" title="Category:Foods that give vitamin C">Foods that give vitamin C</a></li><li><a href="/Category:Consumables" title="Category:Consumables">Consumables</a></li></ul></div></div>					<div class="visualClear"></div>
+									</div>
+								<div id="siderail_atlas_gamepedia_en">
+					<div id='atfmrec_atlas_gamepedia_en'><div id='cdm-zone-02'></div></div><div id='middlemrec_atlas_gamepedia_en'><a href='https://www.gamepedia.com/PRO?utm_source=GPPromo&utm_medium=Rail'><img src='https://gamepedia.cursecdn.com/commons_hydra/c/c2/Pro_Promorail_v2.jpg'></a></div><div id='btfmrec_atlas_gamepedia_en'><div id='cdm-zone-06'></div></div>				</div>
+				<div class="visualClear"></div>
+					<div id=btflb><div id='cdm-zone-04'></div></div>			</div>
+			<div id="mw-navigation">
+				<h2>Navigation menu</h2>
+				<div id="mw-head">
+										<div id="left-navigation">
+											<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/Acai" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/index.php?title=Talk:Acai&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-sharing" role="navigation" class="vectorMenu" aria-labelledby="p-sharing-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-sharing-label" />
+						<h3 id="p-sharing-label"><span>Share</span></h3>
+						<div class="menu">
+							
+				<div id="socialIconImages">
+					<a href="https://twitter.com/intent/tweet?text=Check+out+Acai+on+ATLAS+Wiki+--&amp;via=CurseGamepedia&amp;url=https%3A%2F%2Fatlas.gamepedia.com%2FAcai" target="_blank"><img src="/extensions/Social/images/social/twitter.svg"/></a><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fatlas.gamepedia.com%2FAcai" target="_blank"><img src="/extensions/Social/images/social/facebook.svg"/></a><a href="https://www.reddit.com/submit?url=https%3A%2F%2Fatlas.gamepedia.com%2FAcai&amp;title=Check+out+Acai+on+ATLAS+Wiki+via+%40CurseGamepedia%3A+https%3A%2F%2Fatlas.gamepedia.com%2FAcai" target="_blank"><img src="/extensions/Social/images/social/reddit.svg"/></a><a href="https://www.tumblr.com/share/link?url=https%3A%2F%2Fatlas.gamepedia.com%2FAcai&amp;name=ATLAS+Wiki&amp;description=Check+out+Acai+on+ATLAS+Wiki+via+%3Ca+href%3D%22https%3A%2F%2Ftwitter.com%2FCurseGamepedia%22+target%3D%22_blank%22%3E%40CurseGamepedia%3C%2Fa%3E%3A+https%3A%2F%2Fatlas.gamepedia.com%2FAcai" target="_blank"><img src="/extensions/Social/images/social/tumblr.svg"/></a><a href="https://vk.com/share.php?url=https%3A%2F%2Fatlas.gamepedia.com%2FAcai" target="_blank"><img src="/extensions/Social/images/social/vk.svg"/></a>
+				</div>
+						</div>
+					</div>
+										</div>
+					<div id="right-navigation">
+											<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/Acai">View</a></span></li><li id="ca-ve-edit" class="collapsible"><span><a href="/index.php?title=Acai&amp;veaction=edit" title="Edit this page [v]" accesskey="v">Edit</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/index.php?title=Acai&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/index.php?title=Acai&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search ATLAS Wiki" title="Search ATLAS Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+										</div>
+				</div>
+				<div id="mw-panel">
+					<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/ATLAS_Wiki" title="Visit the main page - ATLAS Wiki"></a></div>
+							<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/ATLAS_Wiki" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-portal"><a href="/ATLAS_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-noticeboard"><a href="/ATLAS_Wiki:Admin_noticeboard">Admin noticeboard</a></li><li id="n-Report-a-bad-ad"><a href="https://gamepedia.zendesk.com/hc/en-us/articles/115006403627-Reporting-Bad-Advertisements" rel="nofollow" target="_blank">Report a bad ad</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Useful_pages" aria-labelledby="p-Useful_pages-label">
+			<h3 id="p-Useful_pages-label">Useful pages</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Item-IDs"><a href="/Item_IDs">Item IDs</a></li><li id="n-Map"><a href="/Map">Map</a></li><li id="n-NPCs"><a href="/NPCs">NPCs</a></li><li id="n-Resources"><a href="/Resources">Resources</a></li><li id="n-Ships"><a href="/Ships">Ships</a></li><li id="n-Taming"><a href="/Taming">Taming</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-ATLAS_links" aria-labelledby="p-ATLAS_links-label">
+			<h3 id="p-ATLAS_links-label">ATLAS links</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Official-site"><a href="https://www.playatlas.com/" rel="nofollow" target="_blank">Official site</a></li><li id="n-Discord"><a href="http://discord.gg/playatlas" rel="nofollow" target="_blank">Discord</a></li><li id="n-Facebook"><a href="https://www.facebook.com/playatlasgame" rel="nofollow" target="_blank">Facebook</a></li><li id="n-Reddit"><a href="https://www.reddit.com/r/playatlas/" rel="nofollow" target="_blank">Reddit</a></li><li id="n-Steam"><a href="https://store.steampowered.com/app/834910/ATLAS/" rel="nofollow" target="_blank">Steam</a></li><li id="n-Twitch"><a href="https://www.twitch.tv/sailtheatlas" rel="nofollow" target="_blank">Twitch</a></li><li id="n-Twitter"><a href="https://twitter.com/sailtheatlas" rel="nofollow" target="_blank">Twitter</a></li><li id="n-YouTube"><a href="https://www.youtube.com/channel/UC-E1kIiduJ04G8BBvin4oow" rel="nofollow" target="_blank">YouTube</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Wiki_links" aria-labelledby="p-Wiki_links-label">
+			<h3 id="p-Wiki_links-label">Wiki links</h3>
+			<div class="body">
+								<ul>
+					<li id="n-Wiki-Discord"><a href="https://discord.gg/BxFHEcE" rel="nofollow" target="_blank">Wiki Discord</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Gamepedia" aria-labelledby="p-Gamepedia-label">
+			<h3 id="p-Gamepedia-label">Gamepedia</h3>
+			<div class="body">
+								<ul>
+					<li id="n-gamepedia-support"><a href="https://gamepedia.zendesk.com" rel="nofollow" target="_blank">Gamepedia support</a></li><li id="n-bad-ad"><a href="https://community.fandom.com/wiki/Help%3ABad_advertisements" target="_blank">Report a bad ad</a></li><li id="n-gamepedia-help"><a href="https://help.gamepedia.com/">Help Wiki</a></li><li id="n-gamepedia-contact"><a href="https://help.gamepedia.com/How_to_contact_Gamepedia">Contact us</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Acai" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Acai" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/index.php?title=Acai&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Acai&amp;oldid=48425" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Acai&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cargopagevalueslink"><a href="/index.php?title=Acai&amp;action=pagevalues" rel="cargo-pagevalues">Page values</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-socialProfiles" aria-labelledby="p-socialProfiles-label">
+			<h3 id="p-socialProfiles-label"></h3>
+			<div class="body">
+				<div class='socialSidebar'>
+						<script type='text/javascript'>
+							document.getElementById('p-socialProfiles').className = 'portal persistent';
+						</script>
+						<div class='socialLink twitter'><a href="https://twitter.com/CurseGamepedia" target="_blank"><img src="/extensions/Social/images/social/twitter.svg" width="32"/></a></div><div class='socialLink facebook'><a href="https://www.facebook.com/CurseGamepedia" target="_blank"><img src="/extensions/Social/images/social/facebook.svg" width="32"/></a></div><div class='socialLink twitch'><a href="https://www.twitch.tv/gamepedia/videos" target="_blank"><img src="/extensions/Social/images/social/twitch.svg" width="32"/></a></div>
+					</div>			</div>
+		</div>
+					</div>
+			</div>
+						<div id="footer" role="contentinfo">
+								<ul id="footer-info">
+										<li id="footer-info-lastmod"> This page was last edited on 19 August 2020, at 23:53.</li>
+											<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="//creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a> unless otherwise noted.<br/>Game content and materials are trademarks and copyrights of their respective publisher and its licensors.  All rights reserved.<br />
+This site is a part of Fandom, Inc. and is not affiliated with the game publisher.</li>
+										</ul>
+									<ul id="footer-places">
+										<li id="footer-places-about"><a href="/ATLAS_Wiki:About" title="ATLAS Wiki:About">About ATLAS Wiki</a></li>
+											<li id="footer-places-disclaimer"><a href="/ATLAS_Wiki:General_disclaimer" title="ATLAS Wiki:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="https://atlas.gamepedia.com/index.php?title=Acai&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+										</ul>
+														<ul id="footer-icons" class="noprint">
+												<li id="footer-copyrightico">
+							<a href="//creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank"><img src="//i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" alt="CC BY-NC-SA 3.0" width="88" height="31"/></a>						</li>
+													<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/" target="_blank"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a><a href="https://help.gamepedia.com/What_is_Hydra" target="_blank"><img src="/skins/Hydra/images/icons/poweredbyhydra.png" alt="Powered by Hydra" width="88" height="31"/></a>						</li>
+												</ul>
+									<div style="clear: both;"></div>
+			</div>
+		</div>
+		<div id="footer-push"></div>
+	</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.169","walltime":"0.292","ppvisitednodes":{"value":1967,"limit":1000000},"ppgeneratednodes":{"value":16324,"limit":1000000},"postexpandincludesize":{"value":55839,"limit":2097152},"templateargumentsize":{"value":23225,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":99},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  190.063      1 -total"," 41.92%   79.678      1 Template:Infobox_consumable"," 29.52%   56.105      1 Template:Berry_Usage"," 28.43%   54.035      2 Template:Navbox"," 25.77%   48.971      3 Template:ItemList"," 24.97%   47.468      2 Template:List_crafted_with"," 20.43%   38.833      1 Template:Nav_consumables"," 19.09%   36.274      1 Template:Infobox_consumable_section","  7.79%   14.808      1 Template:Infobox_item_section","  7.43%   14.131     25 Template:Infobox_row"]},"loops":{"limitreport-count-unlimited":[0]},"scribunto":{"limitreport-timeusage":{"value":"0.010","limit":"7"},"limitreport-virtmemusage":{"value":5197824,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20200916133219","ttl":86400,"transientcontent":false}}});});</script>
+<link href="https://fonts.googleapis.com/css?family=Rubik:400,700&amp;display=swap&amp;subset=cyrillic,latin-ext" rel="stylesheet">
+<div id="footer-and-prefooter">
+	<div id="gamepedia-footer">
+		<div class="footer-wrapper-gp">
+			<div class="footer-box footer-logo">
+				<a href="https://www.gamepedia.com">
+					<img src="/skins/Hydra/images/footer/premium-logo-light.svg" class="footer-gp-logo"/>
+				</a>
+			</div>
+			<div class="footer-box footer-social">
+				<ul class="social">
+					<li>
+						<a href="https://www.facebook.com/CurseGamepedia" title="Facebook"><svg width="10" height="21" xmlns="http://www.w3.org/2000/svg"><path d="M9.364531 3.5096969H7.651507c-1.370419 0-1.598822.7261441-1.598822 1.6943364v2.2994565h3.311846l-.342605 3.6307209H6.281088v9.3188503H2.85504v-9.3188503H0V7.5034898h2.85504V4.8409612C2.85504 1.8153604 4.568064 0 7.080499 0c1.142016 0 2.16983.121024 2.512435.121024v3.3886729h-.228403z" fill-rule="evenodd"/></svg></a>
+					</li>
+					<li>
+						<a href="https://twitter.com/CurseGamepedia" title="Twitter"><svg width="23" height="18" xmlns="http://www.w3.org/2000/svg"><path d="M19.822727 4.2972696v.5729693c0 5.8729351-4.518416 12.6053241-12.826471 12.6053241-2.623596 0-4.955681-.7162116-6.996256-2.0053925.437266 0 .728777.1432423 1.166043.1432423 2.040575 0 4.081149-.7162116 5.684458-1.8621501-1.894819 0-3.643883-1.2891809-4.226905-3.151331.291511 0 .583022.1432423.874532.1432423.437266 0 .437266 0 1.020288-.1432423-2.186331-.429727-4.08115-2.2918772-4.08115-4.440512 0 .429727 1.603309.429727 2.332086.5729693C1.603309 5.8729351.874532 4.5837542.874532 3.0080887c0-.8594539.291511-1.5756655.728777-2.2918771 2.18633 2.7216041 5.684458 4.4405119 9.328342 4.7269965-.145756-.4297269-.145756-.7162116-.145756-1.0026962C10.785895 2.0053925 12.82647 0 15.304311 0c1.311798 0 2.477841.429727 3.352373 1.4324232 1.020287-.2864846 1.894819-.5729693 2.769351-1.1459386-.437266 1.1459386-1.166042 1.8621502-1.894819 2.4351195.874532-.1432423 1.894819-.429727 2.623596-.7162116-.728777.8594539-1.457553 1.7189078-2.332085 2.2918771z" fill-rule="evenodd"/></svg></a>
+					</li>
+					<li>
+						<a href="https://youtube.com/CurseEntertainment" title="Youtube"><svg width="24" height="17" xmlns="http://www.w3.org/2000/svg"><path d="M23.8 3.6s-.2-1.7-1-2.4c-.9-1-1.9-1-2.4-1C17 0 12 0 12 0S7 0 3.6.2c-.5.1-1.5.1-2.4 1-.7.7-1 2.4-1 2.4S0 5.5 0 7.5v1.8c0 1.9.2 3.9.2 3.9s.2 1.7 1 2.4c.9 1 2.1.9 2.6 1 1.9.2 8.2.2 8.2.2s5 0 8.4-.3c.5-.1 1.5-.1 2.4-1 .7-.7 1-2.4 1-2.4s.2-1.9.2-3.9V7.4c0-1.9-.2-3.8-.2-3.8zM9.5 11.5V4.8L16 8.2l-6.5 3.3z" fill-rule="evenodd"/></svg></a>
+					</li>
+				</ul>
+			</div>
+			<div class="footer-box footer-links mobile-split">
+				<ul>
+					<li>
+						<a href="https://support.gamepedia.com">Support</a>
+					</li>
+					<li>
+						<a href="https://help.gamepedia.com/How_to_contact_Gamepedia">Contact</a>
+					</li>
+					<li>
+						<a href="https://www.gamepedia.com/pro">PRO</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<footer id="curse-footer" role="complimentary" class="show-ads">
+		<div class="footer-wrapper">
+						<div class="footer-box footer-ad">
+				<div class="ad-placement ad-main-med-rect-footer">
+					<div id='cdm-zone-03'></div>				</div>
+			</div>
+						<div class="footer-box footer-logo">
+				<a href="https://www.fandom.com" target="_blank"><img src="/skins/Hydra/images/footer/fandom-logo.svg" /></a>
+			</div>
+			<div class="footer-box footer-properties">
+				<h2>Explore Properties</h2>
+				<ul class="properties mobile-split">
+					<li><a href="https://www.fandom.com">Fandom</a></li>
+					<li><a href="https://www.gamepedia.com">Gamepedia</a></li>
+					<li><a href="https://www.dndbeyond.com">D&amp;D Beyond</a></li>
+					<li><a href="https://www.muthead.com">Muthead</a></li>
+					<li><a href="https://www.futhead.com">Futhead</a></li>
+								</ul>
+			</div>
+			<div class="footer-box footer-social">
+				<h2>Follow Us</h2>
+				<ul class="social">
+					<li><a href="https://www.facebook.com/getfandom" title="Facebook"><svg class="icon" xmlns="http://www.w3.org/2000/svg" width="11" height="24" viewBox="0 0 11 24"><path d="M10.7 4L8.8 4C7.2 4 6.9 4.9 6.9 6L6.9 8.6 10.7 8.6 10.3 12.8 7.2 12.8 7.2 23.5 3.3 23.5 3.3 12.8 0 12.8 0 8.6 3.3 8.6 3.3 5.6C3.3 2.1 5.2 0 8.1 0 9.4 0 10.6 0.1 11 0.1L11 4 10.7 4Z"/></svg></a></li>
+					<li><a href="https://twitter.com/getfandom" title="Twitter"><svg width="24" height="19" xmlns="http://www.w3.org/2000/svg"><path d="M20.957 4.543v.606c0 6.209-4.777 13.327-13.56 13.327-2.774 0-5.24-.758-7.397-2.12.462 0 .77.15 1.233.15 2.157 0 4.314-.756 6.01-1.968-2.004 0-3.853-1.363-4.47-3.332.309 0 .617.152.925.152.463 0 .463 0 1.079-.152C2.466 10.752.462 8.783.462 6.512c0 .454 1.695.454 2.466.606C1.695 6.209.925 4.846.925 3.18c0-.908.308-1.666.77-2.423 2.311 2.878 6.01 4.695 9.862 4.998-.154-.455-.154-.758-.154-1.06C11.403 2.12 13.56 0 16.18 0c1.387 0 2.62.454 3.544 1.514 1.079-.302 2.004-.605 2.928-1.211-.462 1.211-1.233 1.969-2.003 2.574a14.785 14.785 0 0 0 2.774-.757c-.77.909-1.541 1.817-2.466 2.423z" fill-rule="evenodd"/></svg></a></li>
+					<li><a href="https://www.youtube.com/fandomentertainment" title="Youtube"><svg width="24" height="17" xmlns="http://www.w3.org/2000/svg"><path d="M23.8 3.6s-.2-1.7-1-2.4c-.9-1-1.9-1-2.4-1C17 0 12 0 12 0S7 0 3.6.2c-.5.1-1.5.1-2.4 1-.7.7-1 2.4-1 2.4S0 5.5 0 7.5v1.8c0 1.9.2 3.9.2 3.9s.2 1.7 1 2.4c.9 1 2.1.9 2.6 1 1.9.2 8.2.2 8.2.2s5 0 8.4-.3c.5-.1 1.5-.1 2.4-1 .7-.7 1-2.4 1-2.4s.2-1.9.2-3.9V7.4c0-1.9-.2-3.8-.2-3.8zM9.5 11.5V4.8L16 8.2l-6.5 3.3z" fill-rule="evenodd" /></svg></a></li>
+					<li><a href="https://www.instagram.com/getfandom/" title="Instagram"><svg width="20" height="20" xmlns="http://www.w3.org/2000/svg"><path d="M17.510373 0H2.406639C1.078838 0 0 1.0788382 0 2.3236515v15.1867219c0 1.3278009 1.078838 2.406639 2.406639 2.406639h15.186722C18.921162 19.9170124 20 18.8381743 20 17.593361V2.3236515C19.917012 1.0788382 18.838174 0 17.510373 0zm-2.572614 2.4896266h1.659751c.497926 0 .829876.3319502.829876.8298755v1.659751c0 .4979253-.33195.8298755-.829876.8298755h-1.659751c-.497925 0-.829875-.3319502-.829875-.8298755v-1.659751c0-.4979253.33195-.8298755.829875-.8298755zM9.958506 6.1410788c2.074689 0 3.817428 1.7427386 3.817428 3.8174274s-1.742739 3.8174274-3.817428 3.8174274c-2.074689 0-3.817427-1.7427386-3.817427-3.8174274s1.742738-3.8174274 3.817427-3.8174274zm6.639004 11.2863071H3.319502c-.497925 0-.829875-.3319502-.829875-.8298755V8.2987552h1.659751c-.248963.9128631-.331951 1.9917012-.082988 2.9875519.497925 2.3236514 2.406639 4.1493775 4.73029 4.5643153 3.900415.746888 7.302905-2.1576763 7.302905-5.8921162 0-.5809128-.165975-1.1618257-.248963-1.659751h1.659751v8.2987552c-.082987.4979253-.414937.8298755-.912863.8298755z" fill-rule="evenodd" /></svg></a></li>
+					<li><a href="https://www.linkedin.com/company/fandomwikia/" title="LinkedIn"><svg width="19" height="19" xmlns="http://www.w3.org/2000/svg"><path d="M3.859375 19h-3.5625V5.9375h3.5625V19zM2.078125 4.43175C.931 4.43175 0 3.493625 0 2.337S.931.24225 2.078125.24225 4.15625 1.180375 4.15625 2.337s-.929812 2.09475-2.078125 2.09475zM18.109375 19h-3.5625v-6.65475c0-3.9995-4.75-3.6966875-4.75 0V19h-3.5625V5.9375h3.5625v2.0959375c1.65775-3.070875 8.3125-3.2976875 8.3125 2.94025V19z" fill-rule="nonzero" /></svg></a></li>
+				</ul>
+			</div>
+			<div class="footer-box footer-overview">
+				<h2>Overview</h2>
+				<ul class="mobile-split">
+					<li><a href="https://www.fandom.com/about">About</a></li>
+					<li><a href="https://www.fandom.com/careers">Careers</a></li>
+					<li><a href="https://www.fandom.com/press">Press</a></li>
+					<li><a href="https://www.fandom.com/about#contact">Contact Us</a></li>
+					<li><a href="https://www.fandom.com/terms-of-use">Terms of Use</a></li>
+					<li><a href="https://www.fandom.com/privacy-policy">Privacy Policy</a></li>
+				</ul>
+			</div>
+			<div class="footer-box footer-community">
+				<h2>Community</h2>
+				<ul class="mobile-split">
+					<li><a href="https://community.fandom.com/wiki/Community_Central">Community Central</a></li>
+					<li><a href="https://fandom.zendesk.com/hc/en-us">Support</a></li>
+					<li><a href="https://community.fandom.com/wiki/Help:Contents">Help</a></li>
+					<li><a href="https://www.gamepedia.com/do-not-sell-my-info">Do Not Sell My Info</a></li>
+				</ul>
+			</div>
+			<div class="footer-box footer-advertise">
+				<h2>Advertise</h2>
+				<ul class="mobile-split">
+					<li><a href="https://www.fandom.com/mediakit">Media Kit</a></li>
+					<li><a href="https://www.fandom.com/mediakit#contact">Contact Us</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="footer-post">
+			ATLAS Wiki is a Fandom Gaming Community.			<hr />
+			<span class="footer-post-mobile"><a href="https://atlas.gamepedia.com/index.php?title=Acai&amp;mobileaction=toggle_view_mobile">View Mobile Site</a></span>
+		</div>
+	</footer>
+</div>
+
+<!-- Begin comScore -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6035118" });
+(function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="https://sb.scorecardresearch.com/p?c1=2&c2=6035118&cv=2.0&cj=1" alt="Tracking Pixel"/>
+</noscript>
+<!-- End comScore -->
+
+<!-- Begin Nielsen -->
+<script type="text/javascript">
+(function () {
+	var d = new Image(1, 1);
+	d.onerror = d.onload = function () {
+		d.onerror = d.onload = null;
+	};
+	d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-603339h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+})();
+</script>
+<noscript>
+<div><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-603339h&cg=0&cc=1&ts=noscript" width="1" height="1" alt="" /></div>
+</noscript>
+<!-- End Nielsen --><div id='cdm-zone-end'></div><!-- Start PubMP -->
+<script type="text/javascript" src="//ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1"></script> 
+<!-- End PubMP -->
+			<script type="text/javascript">
+				window.genreCategory = 'MMO';
+				window.wikiTags = ["game:atlas","studio wildcard"];
+			</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":388});});</script>
+	</body>
+</html>
+		
