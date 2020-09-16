@@ -1,29 +1,26 @@
 body {
-    background-color: salmon;
-    color: white;
+    background-color: beige;
+    color: black;
 }
 
 table {
     text-align: center;
-    color: black;
-    background-color: beige;
+    color:red;
+    background-color: khaki;
     border-collapse: collapse;
-    color: red;
 }
 
 td, th {
     border: 1px solid black;
     padding: 7px;
     width: 200px;
+    border-collapse: collapse;
 }
 
-caption {
-    font-size: 20px;
-    margin-bottom: 10px;
-    color: black;
+table th:hover{
+    background-color: sandybrown;
 }
-
-thead {
-    background-color: palegoldenrod;
+table td:hover{
+    background-color: sandybrown;
 }
  
