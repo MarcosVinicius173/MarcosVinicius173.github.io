@@ -14,56 +14,56 @@
        HTML para tabelas
    </h2>
    <table>
-       <caption>Verduras do Marcao</caption><!--Legenda-->
+       <caption>Verdureira do Marcao</caption><!--Legenda-->
        <thead><!--Cabeçalho da tabela-->
-           <tr><!--Fileira-->
-               <th>🍉 🍇 🍓Tudo Fresquinho para você🍒 🍑 🥭</th><!--Coluna 1-->
-               <th></th><!--Coluna 2-->
-               <th></th><!--Coluna 3-->
-               <th></th><!--Coluna 4-->
-               <tr>
-                <th></th>
-                <th>Foto</th>
-                <th>Nome</th>
-                <th>Preço</th>
-            </tr>
-            <tr>
-                <td>Frutas</td>
-                <td><img src="images/morango.png" alt="morango" height="50" width="50"></td>
-                <td>Morango</td>
-                <td>R$ 5,00</td>
-            </tr>
-            <tr>
-                <td></td>
-                <td><img src="images/pitaya.png" alt="pitaya" height="50" width="50"></td>
-                <td>Pitaya</td>
-                <td>R$ 17,00</td>
-            </tr>
-            <tr>
-                <td></td>
-                <td><img src="images/acai.png" alt="açai" height="50" width="50"></td>
-                <td>Açaí</td>
-                <td>R$ 8,00</td>
-            </tr>
-            
-       </tbody><!-- Fim do corpo 1  da tabela-->
-
-       <tbody><!--Corpo 2 Legumes da Tabela-->
- 
+           <tr><!--Row - Fileira ou Linha-->
+               <th colspan="4"><!--Uma coluna que valem 4-->
+                🍉 🍇 🍓Tudo Fresquinho para você🍒 🍑 🥭
+               </th>
+           </tr>
+           <tr><!--table Row - fileira -->
+               <th></th><!--Coluna 1-->
+               <th>Foto</th><!--Coluna 2-->
+               <th>Nome</th><!--Coluna 3-->
+               <th>Preço</th><!--Coluna 4-->
+           </tr>
+       </thead><!--Fim do cabeçalho da tabela-->
+       <tbody><!--Corpo 1 Frutas da tabela-->
+        <tr><!--1ª Linha-->
+            <td rowspan="3">Frutas</td><!--Coluna 1-->
+            <td><img src="images/morango.png" alt="morango" height="50" width="50"></td>
+            <td>Morango</td>
+            <td>R$ 5,00</td>
+        </tr>
         <tr>
-            <td>Legumes</td>
+           
+            <td><img src="images/pitaya.png" alt="pitaya" height="50" width="50"></td>
+            <td>Pitaya</td>
+            <td>R$ 17,00</td>
+        </tr>
+        <tr>
+            
+            <td><img src="images/acai.png" alt="acai" height="50" width="50"></td>
+            <td>Açaí</td>
+            <td>R$ 8,00</td>
+           </tr>
+       </tbody><!-- Fim do corpo 1  da tabela-->
+       
+       <tbody><!--Corpo 2 Legumes da Tabela-->
+        <tr>
+            <td rowspan="3">Legumes</td>
             <td><img src="images/mandioca.png" alt="mandioca" height="50" width="50"></td>
             <td>Mandioca</td>
             <td>R$ 3,75</td>
         </tr>
         <tr>
-            <td></td>
+            
             <td><img src="images/cenoura.png" alt="cenoura" height="50" width="50"></td>
             <td>Cenoura</td>
             <td>R$ 1,65</td>
         </tr>
         <tr>
-            <td></td>
+           
             <td><img src="images/batata.png" alt="batata" height="50" width="50"></td>
             <td>Batata</td>
             <td>R$ 3,50</td>
@@ -71,21 +71,20 @@
        </tbody>
  
        <tbody><!-- Corpo 3 Cereais-->
- 
         <tr>
-            <td>Cereais</td>
+            <td rowspan="3">Cereais</td>
             <td><img src="images/milho.png" alt="milho" height="50" width="50"></td>
             <td>Milho</td>
             <td>R$ 1,75</td>
         </tr>
         <tr>
-            <td></td>
+            
             <td><img src="images/arroz.png" alt="arroz" height="50" width="50"></td>
             <td>Arroz</td>
             <td>R$ 9,65</td>
         </tr>
         <tr>
-            <td></td>
+            
             <td><img src="images/trigo.png" alt="trigo" height="50" width="50"></td>
             <td>Trigo</td>
             <td>R$ 4,50</td>

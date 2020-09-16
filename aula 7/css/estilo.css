@@ -1,11 +1,11 @@
 body {
-    background-color: beige;
+    background-color: salmon;
     color: black;
 }
 
 table {
     text-align: center;
-    color:red;
+    color:black;
     background-color: khaki;
     border-collapse: collapse;
 }
