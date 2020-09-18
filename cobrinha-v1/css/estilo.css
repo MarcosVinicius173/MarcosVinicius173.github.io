@@ -1,0 +1,12 @@
+body {
+    background-color: indigo;
+    color: cyan;
+    height: 92vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ }
+ 
+ 
