@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário sobre você.</title>
+</head>
+<body>
+    
+    <div class="container">
+        <form action="action_page.php">
+      
+          <label for="pname">Primeiro Nome</label>
+          <input type="text" id="pname" name="primeironome" placeholder="Seu nome é ..">
+      
+          <label for="sname">Sobrenome.</label>
+          <input type="text" id="sname" name="sobrenome" placeholder="Seu sobrenome é ..">
+      
+          <label for="País">País</label>
+          <select id="pais" name="pais">
+            <option value="Brasil">Brasil</option>
+            <option value="canada">Canada</option>
+            <option value="USA">USA</option>
+          </select>
+      
+          <label for="Algo sobre você">Algo sobre você.</label>
+          <textarea id="subject" name="subject" placeholder="Escreva algo sobre você .." style="height:200px"></textarea>
+      
+          <input type="submit" value="Enviar">
+      
+        </form>
+      </div>
+
+      <link rel="stylesheet" href="css/estilo.css">
+
+</body>
+</html>
